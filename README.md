@@ -1,6 +1,7 @@
 # openbox_pipemenu_time
 
-A pipemenu to present date / time in a convenient format
+A pipemenu to present date / time in a convenient format.  Inspired by and using parts of the script here:
+http://openbox.org/wiki/Openbox:Pipemenus:Date_Menu
 
 All scripts are without any kind of warranty, use entirely at your own risk!
 
